@@ -4,7 +4,7 @@ A SPA React app that mimics inventory control for a fishing company. Featuring i
 
 #Demo
 
-Will host on firebase soon and include link below:
+https://daily-catch.firebaseapp.com/
 
 
 #Quickstart
