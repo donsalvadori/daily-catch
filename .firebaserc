@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "daily-catch"
+    "default": "daily-catch",
+    "staging": "daily-catch"
   }
 }
