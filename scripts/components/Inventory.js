@@ -114,7 +114,7 @@ class Inventory extends React.Component{
       return(
         <div>
           <p>Sorry, you aren't the owner of this store</p>
-          {logoutbutton}
+          {logoutButton}
         </div>
       )
     }
@@ -122,7 +122,7 @@ class Inventory extends React.Component{
     return(
       <div>
         <h2>Inventory</h2>
-        {logoutbutton}
+        {logoutButton}
 
         {Object.keys(this.props.fishes).map(this.renderInventory)}
 
